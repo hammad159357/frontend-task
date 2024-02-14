@@ -1,0 +1,12 @@
+.header {
+  background-color: #000000;
+  min-height: 10vh;
+  display: flex;
+  color: white;
+  position: fixed;
+  top: 0;
+  padding: 0 5%;
+  width: 100%;
+  z-index: 10;
+  align-items: center;
+}
