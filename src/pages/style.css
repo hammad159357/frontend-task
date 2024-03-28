@@ -1,0 +1,14 @@
+  .Container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 35px;
+    padding: 40px;
+}
+
+.Container.pagination {
+    margin-top: 120px;
+    padding: 0px;
+}
+  
+ 
